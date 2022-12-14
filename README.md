@@ -2,11 +2,11 @@
 
 >Your task
 
-Modify Application and Farm to produce the output below. You may add what files you need and change Farm and Application to meet your needs.  
+Produce the output below. You may add files and change Farm and Application to get the desired results.  
 
-NOTE: There is a bug in this code but it compiles and runs without errors.
+NOTE: There is a bug in this code, but it still compiles and runs without errors.
 
->Output
+>Desired output
 
 A Dog says bark bark
 
